@@ -20,3 +20,22 @@ body {
   border-top: 3px solid #dddddd;
   border-bottom: 3px solid #dddddd;
   background-color:rgba (210,180,140)
+}
+
+h1{
+  border-bottom: 2px outset;
+  border-top: 2px outset;
+}
+
+h4{
+  border-bottom: 2px solid;
+  border-top: 2px solid;
+}
+
+h5{
+  border-bottom: 1px dashed;
+}
+
+h6{
+  border-top:1px dotted;
+}
