@@ -1,14 +1,22 @@
 body {
-  background-color: #bdb76b;
+  background-color: #ffb6c1;
   color: #000000;
-  font-family: Georgia, Times New Roman, serif;
+  font-family: Optima, sans-serif;
   Margin: 10% 20%;
 }
+
+
+
+.exp-header {
+  border-top: 2px dotted solid #000000;
+  border-bottom: 2px dotted solid #000000;
+  border-style: dotted solid
+}
+
 
 .exp-header {
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color:rgba (189,183,107)
-}
+  border-top: 3px solid #dddddd;
+  border-bottom: 3px solid #dddddd;
+  background-color:rgba (210,180,140)
